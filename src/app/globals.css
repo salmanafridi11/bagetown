@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.gradient-bg {
+  background: rgba(228, 102, 84, 1);
+  background-size: cover;
+  background-position: center;
+}
+
+.card {
+  border-radius: 15px;
+}
