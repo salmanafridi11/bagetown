@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
       {/* <CartProvider>{children}</CartProvider> */}
-      <h1>coming soon</h1>
+            <h1 className="text-center text-2xl">PAY YOUR EMPLOYEES AND STOP THREATENING THEM</h1>
       </body>
       {/* <Footer/> */}
     </html>
